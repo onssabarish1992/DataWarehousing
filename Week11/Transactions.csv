@@ -1,0 +1,11 @@
+transaction_id,product_id,product_name,quantity,unit_price,customer_id,customer_name,transaction_date
+1,P1001,Product A,5,-10.99,C1001,John Doe,15-01-2022
+2,P1002,Product B,3,15.99,C1002,Jane Smith,16-01-2022
+3,P1003,Product C,2,20.99,C1003,Michael Johnson,16-01-2022
+4,P1001,Product D,4,10.99,C1004,Emily Brown,17-01-2022
+5,P1004,,1,25.99,C1005,,18-01-2022
+6,P1002,Product F,2,15.99,C1001,Sandy Orton,19-01-2022
+7,P1003,Product G,3,-20.99,C1002,Jim Obrien,20-01-2022
+8,P1004,NULL,2,25.99,C1003,Ulisses Franca,21-01-2022
+9,P1005,Product I,1,30.99,C1004,,22-01-2022
+10,P1005,Product J,4,30.99,C1005,David Wilson,23-01-2022
